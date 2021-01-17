@@ -1,0 +1,18 @@
+live:
+    live_URL: https://api.waspa.org.za/api.php
+    loginrequest:
+        action: Login
+        version: 1
+        wasp_id: #WASP_ID
+        password: #WASP_PASS
+        trace: 6533
+
+development:
+    dev_URL: https://devapi.waspa.org.za/api.php
+    loginrequest:
+        action: Login
+        version: 1
+        wasp_id: #WASP_ID
+        password: #WASP_PASS
+        trace: 6533
+        
